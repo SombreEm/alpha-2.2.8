@@ -1,0 +1,4 @@
+﻿  Aggressive Killer 2000.cpp
+D:\C++\Aggressive Killer 2000\Aggressive Killer 2000\Aggressive Killer 2000.cpp(119,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\Aggressive Killer 2000\Aggressive Killer 2000\Aggressive Killer 2000.cpp(181,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Aggressive Killer 2000.vcxproj -> D:\C++\Aggressive Killer 2000\x64\Debug\Aggressive Killer 2000.exe
