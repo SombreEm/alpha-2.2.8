@@ -23,7 +23,7 @@ public:
         case 1:  
             energy -= 5;
             attack += 5;
-            defense += 2; 
+            defense -= 5; 
             strategy = "aggressive";
             cout << name << " вибирає агресивну стратегію захисту.\n";
             break;
